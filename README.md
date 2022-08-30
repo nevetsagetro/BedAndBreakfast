@@ -16,7 +16,5 @@ Responsive website made with Tailwind CSS, includes dark mode toggle.
 
 
 
-
-
-[![Mesa-de-trabajo-2-4x.png](https://i.postimg.cc/020fFY8R/Mesa-de-trabajo-2-4x.png)]
+[![Mesa-de-trabajo-2-4x.png](https://i.postimg.cc/020fFY8R/Mesa-de-trabajo-2-4x.png =250x)]
 
